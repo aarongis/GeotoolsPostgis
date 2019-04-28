@@ -1,0 +1,117 @@
+2019-04-25 20:23:56  [ main:0 ] - [ INFO ]  
+PostgisDataStore 初始化geotools中的 Datastore成功
+
+2019-04-25 20:28:30  [ main:0 ] - [ INFO ]  
+PostgisDataStore 初始化geotools中的 Datastore成功
+
+2019-04-25 20:32:03  [ main:0 ] - [ INFO ]  
+PostgisDataStore 初始化geotools中的 Datastore成功
+
+2019-04-25 20:32:10  [ main:7021 ] - [ INFO ]  dataFileCache open start
+2019-04-25 20:32:11  [ main:8021 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:32:12  [ main:9844 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:38:41  [ main:0 ] - [ INFO ]  
+PostgisDataStore 初始化geotools中的 Datastore成功
+
+2019-04-25 20:47:34  [ main:0 ] - [ INFO ]  
+PostgisDataStore 初始化geotools中的 Datastore成功
+
+2019-04-25 20:47:50  [ main:15943 ] - [ INFO ]  dataFileCache open start
+2019-04-25 20:47:51  [ main:16953 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:47:53  [ main:18860 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:47:53  [ main:19146 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:47:56  [ main:21556 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:47:56  [ main:21969 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:48:08  [ main:34164 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:48:09  [ main:34507 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:48:09  [ main:34767 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:48:09  [ main:35121 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:48:10  [ main:35903 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:48:11  [ main:36285 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:48:45  [ main:71239 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:48:46  [ main:71571 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:48:47  [ main:72857 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:48:47  [ main:73233 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:48:54  [ main:79815 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:48:55  [ main:80852 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:49:04  [ main:89608 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:49:04  [ main:89985 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:49:06  [ main:91665 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:49:06  [ main:91976 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:49:14  [ main:99602 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:49:14  [ main:100026 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:49:22  [ main:107939 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:49:22  [ main:108232 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:49:26  [ main:111786 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:49:26  [ main:112065 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:49:55  [ main:140877 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:49:55  [ main:141253 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:49:56  [ main:142020 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:49:57  [ main:142364 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:50:17  [ main:163252 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:50:18  [ main:163599 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:50:41  [ main:186921 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:50:41  [ main:187245 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:50:49  [ main:194552 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:50:49  [ main:194867 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:50:54  [ main:199881 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:50:54  [ main:200146 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:50:55  [ main:200731 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:50:55  [ main:201030 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:50:59  [ main:204569 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:50:59  [ main:204902 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:51:02  [ main:207976 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:51:03  [ main:208497 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:51:06  [ main:211535 ] - [ INFO ]  
+shp导入postgis成功
+2019-04-25 20:51:06  [ main:211834 ] - [ INFO ]  
+postgis创建数据表成功
+2019-04-25 20:51:08  [ main:214211 ] - [ INFO ]  
+shp导入postgis成功

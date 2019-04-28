@@ -1,0 +1,6 @@
+2019-04-24 23:16:23  [ main:0 ] - [ DEBUG ]  This is debug message.
+2019-04-24 23:16:23  [ main:6 ] - [ INFO ]  This is info message.
+2019-04-24 23:16:23  [ main:7 ] - [ ERROR ]  This is error message.
+2019-04-24 23:18:01  [ main:0 ] - [ DEBUG ]  This is debug message.
+2019-04-24 23:18:01  [ main:6 ] - [ INFO ]  This is info message.
+2019-04-24 23:18:01  [ main:6 ] - [ ERROR ]  This is error message.
